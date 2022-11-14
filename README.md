@@ -13,6 +13,7 @@ Prerequisites Use git clone to clone the repository using the HTTPS link into yo
 
 Setup cd into your local repository
 
+
 Install npm install - Installs the necessary dependencies
 
 Usage Open the index file and enjoy
@@ -24,6 +25,8 @@ Twitter: @twitterhandle
 LinkedIn: LinkedIn
 🤝 Contributing
 Contributions, issues, and feature requests are welcome!
+
+-GitHub Website (https://schoolsofafrika.github.io/echeportfolio.github.io/)
 
 Feel free to check the issues page.
 
